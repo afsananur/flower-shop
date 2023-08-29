@@ -1,0 +1,154 @@
+*{
+    font-family: 'Lato', sans-serif;
+font-family: 'Lugrasimo', cursive;
+font-family: 'Manrope', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-color: rgb(250, 228, 232);
+    display: flex;
+    padding:0px 100px 0px 90px;
+   
+}
+.banner-title{
+    font-size: 80px;
+    padding: 10px 0px 20px 100px;
+}
+.banner-des{
+    padding-left: 100px;
+    
+}
+.btn-primary{
+    width: 165px;
+    height: 68px;
+    font-size: 20px;
+    background-color: #E55473;
+    color: white;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+  
+}
+
+/* main */
+
+.featured-head{
+   text-align: center;
+}
+.featured-title{
+    font-size: 50px;
+    padding-top: 30px;
+   
+}
+.flowers{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 0px 30px 0px;
+}
+.flower-1{
+     background-image:url('Flower\ Asset/Rectangle 3 (1).png');
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 100px 0px 80px;
+    margin-bottom: 20px;
+}
+.flower-2{
+    background-image:url('Flower\ Asset/Rectangle 3.png');
+    padding: 160px 100px 0px 80px;
+    margin-bottom: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.flower-3{
+    background-image:url('Flower\ Asset/Rectangle 3 (2).png');
+    padding: 70px 100px 0px 80px;
+    margin-bottom: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* ----------------- */
+.service{
+    display: flex;
+    gap: 4;
+    background-color:#eae8e8 ;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    margin:20px 180px 20px 180px;
+}
+
+.hot-deal{
+    background-color:  rgb(250, 228, 232);
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.off{
+    color: #E55473;
+}
+.instagram{
+    text-align: center;
+} 
+.images{
+    padding: 20px 0 20px 0;
+    
+}
+
+.latest-deal{
+    background-image: url('Flower\ Asset/Rectangle 9.png');
+   text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 0 50px 0px;
+    margin-bottom: 30px;
+
+}
+.email-heere{
+    padding: 20px 400px 20px 10px;
+}
+.btn-subscribe{
+    width: 165px;
+    height: 68px;
+    font-size: 20px;
+    background-color: #E55473;
+    color: white;
+    border-radius: 5px;
+}
+.contact{
+    text-align: center;
+}
+
+
+
+.flower-shop{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.contact{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 30px 0 30px 0;
+    gap: 70px;
+}
+.contact-title{
+    padding-top: 50px;
+}
+.fa-brands {
+    font-size: 35px;
+    padding: 10px;
+}
+.footer-des{
+    color: #9d9c9c;
+}
